@@ -1,54 +1,54 @@
 # Nishchaya Sharma
 
-AI Engineer | ML Engineer | Data Scientist
+Data Scientist | ML Engineer | AI Engineer
 
-I build practical AI products at the intersection of machine learning, data science, and software engineering. My recent work focuses on resume intelligence, RAG-based chat systems, and deployable ML applications with clean user experiences.
+Building intelligent systems from data to deployment with clear impact.
 
-## About Me
+[Portfolio](https://nishchaya.app) | [GitHub](https://github.com/shinzoxD) | [LinkedIn](https://in.linkedin.com/in/nishchaya-sharma-294710224?trk=public_post_feed-actor-image) | [Email](mailto:nishchayasharma15@gmail.com)
 
-- Building end-to-end AI applications from data processing and model logic to APIs, dashboards, and deployment
-- Interested in NLP, LLM applications, retrieval systems, explainable scoring, and applied data science
-- Focused on creating portfolio-ready projects that are measurable, production-aware, and useful in real workflows
-- Targeting AI Engineer, ML Engineer, and Data Scientist opportunities
+## About
+
+I build end-to-end AI and machine learning solutions, from problem framing and data preparation to model training and deployment. I focus on production-ready systems, lightweight inference APIs, reliable evaluation, and reproducible workflows.
 
 ## Featured Projects
 
-### [ResumePilot AI](https://github.com/shinzoxD/ai-resume-screener-job-matcher)
-AI-powered resume intelligence app with JD matching, ATS scoring, skill-gap analysis, and actionable resume feedback. Built with Streamlit, FastAPI, sentence-transformers, scikit-learn, Docker, CI, and Hugging Face deployment.
-
 ### [ShinzoGPT](https://github.com/shinzoxD/streamlit-genai-chatbot)
-Document-aware GenAI chatbot with Streamlit frontend, FastAPI backend, Chroma vector store, LangChain-style RAG workflow, agent tools, observability, testing, and automated deployment.
+Document-aware AI chatbot with RAG, multi-provider model routing, and tool-enabled chat (web search + calculator).  
+Live demo: [Hugging Face Space](https://huggingface.co/spaces/shinzobolte/ShinzoGPT)  
+Impact: Hit@3 and MRR@3 up to `1.00` in tested runs, with reliability and security hardening and `27` passing tests.
 
-### [Portfolio](https://github.com/shinzoxD/Portfolio)
-Personal portfolio app built with React, Vite, and Tailwind CSS, with admin editing workflows, database-backed content management, and deployment-ready configuration.
+### [ResumePilot AI](https://github.com/shinzoxD/ai-resume-screener-job-matcher)
+Dual-mode resume intelligence app (`JD Match` + `Resume Health`) for resume-job fit, ATS readiness, skill-gap analysis, and actionable improvements.  
+Live demo: [Hugging Face Space](https://huggingface.co/spaces/shinzobolte/ai-resume-screener-job-matcher)  
+Impact: Strong alignment with human-labeled scoring (`Pearson 0.949`, `Spearman 0.818`) with CI/CD and `12` passing tests.
 
-## Core Stack
+### [Movie Recommendation System](https://huggingface.co/spaces/shinzobolte/Movie-recommendation-system)
+Interactive recommender app that suggests movies based on similarity and user selection.  
+Live demo and repo: [Hugging Face Space](https://huggingface.co/spaces/shinzobolte/Movie-recommendation-system)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+## Experience
 
-## What I Bring
+- **Data Scientist Intern**, Jaipur Development Authority (JDA), Jaipur  
+  Built Python workflows for municipal datasets and integrated LLM/NLP pipelines to automate processing of unstructured survey and citizen-feedback data.
+- **Full Stack Web Developer**, Tag11Softech, Jaipur  
+  Built scalable full-stack features and API endpoints; improved architecture and performance for low-latency user experiences.
 
-- Applied machine learning and NLP project development
-- GenAI product building with RAG, document workflows, and evaluation-aware engineering
-- Data analysis, scoring pipelines, experimentation, and model-driven product thinking
-- Backend APIs, interactive dashboards, testing, CI/CD, and lightweight deployment
+## Skills
 
-## GitHub Snapshot
+- **Foundations:** Python, SQL, Data Cleaning, EDA, Data Storytelling
+- **Machine Learning:** scikit-learn, XGBoost, Feature Engineering, Model Evaluation, Hyperparameter Tuning, Pipelines
+- **Deep Learning:** PyTorch, TensorFlow, Neural Networks, CNNs, RNNs, NLP
+- **AI Engineering:** Transformers, LLMs, Prompt Engineering, RAG, Vector Databases, Embeddings, Evaluation
+- **MLOps and Deployment:** Docker, FastAPI, MLflow, Git, CI/CD, Model Serving, Monitoring
+- **Visualization:** Matplotlib, Seaborn
+
+## Certifications
+
+- [Machine Learning Specialization - Coursera (2025)](https://drive.google.com/file/d/1rGE-qhgfqWKrj0MC_dJkej-rXFJLRYqU/view?usp=sharing)
+- Deep Learning Specialization - Coursera (2025)
+- [Generative AI: RAG, AI Agents and Deployment - Udemy (2026)](https://drive.google.com/file/d/1sZC7bL2ayS1qXZ03WxuA7NP8oGwgHWh7/view?usp=sharing)
+
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shinzoxD&show_icons=true&theme=transparent&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinzoxD&layout=compact&theme=transparent&hide_border=true)
-
-## Current Focus
-
-I am currently building AI applications that combine strong UX with practical ML capabilities, especially in LLM apps, intelligent screening systems, and data-backed decision tools.
