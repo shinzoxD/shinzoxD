@@ -50,5 +50,6 @@ Live demo and repo: [Hugging Face Space](https://huggingface.co/spaces/shinzobol
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shinzoxD&show_icons=true&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinzoxD&layout=compact&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shinzoxD&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shinzoxD&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=shinzoxD&theme=github-dark-blue&hide_border=true)
